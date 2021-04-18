@@ -14,6 +14,8 @@ Docker container (used for hosting SQL database + client). YAML file for Postgre
 (BONUS) pandas + sqlalchemy modules in Python
 
 
+<img src="images/pgadmin.jpeg" height = 200 width = 300>
+
 
 ![](EmployeeSql/QuickDBD-homework.png)
 
